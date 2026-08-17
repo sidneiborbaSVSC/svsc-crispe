@@ -7,6 +7,7 @@ import streamlit as st
 
 APP_NAME = "SVSC-CRISPE"
 APP_VERSION = "1.0.0"
+st.error("🚨 VERSÃO NOVA CARREGADA COM SUCESSO ")
 
 st.set_page_config(page_title=APP_NAME, page_icon="🧠", layout="centered")
 
